@@ -1,0 +1,20 @@
+{
+  "name": "soundwave",
+  "version": "1.0.0",
+  "description": "Soundwave Image Generator",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack -d",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timestep/soundwave.git"
+  },
+  "author": "Kevin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timestep/soundwave/issues"
+  },
+  "homepage": "https://github.com/timestep/soundwave#readme"
+}
