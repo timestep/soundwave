@@ -1,0 +1,33 @@
+{
+  "name": "soundwave",
+  "version": "1.0.0",
+  "description": "Soundwave Image Generator",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack",
+    "dev": "webpack-dev-server --content-base build/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timestep/soundwave.git"
+  },
+  "author": "Kevin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timestep/soundwave/issues"
+  },
+  "homepage": "https://github.com/timestep/soundwave#readme",
+  "devDependencies": {
+    "babel-core": "^6.18.2",
+    "babel-loader": "^6.2.7",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-stage-0": "^6.16.0",
+    "html-webpack-plugin": "^2.24.1",
+    "raw-loader": "^0.5.1",
+    "stylelint-webpack-plugin": "^0.4.0",
+    "webpack": "^1.13.3",
+    "webpack-dev-server": "^1.16.2",
+    "webpack-split-by-path": "0.1.0-beta.1"
+  }
+}
