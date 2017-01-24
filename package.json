@@ -26,9 +26,9 @@
     "copy-webpack-plugin": "^4.0.0",
     "html-webpack-plugin": "^2.24.1",
     "raw-loader": "^0.5.1",
-    "stylelint-webpack-plugin": "^0.4.0",
+    "stylelint-webpack-plugin": "^0.5.1",
     "webpack": "^1.13.3",
     "webpack-dev-server": "^1.16.2",
-    "webpack-split-by-path": "0.1.0-beta.1"
+    "webpack-split-by-path": "0.1.0"
   }
 }
